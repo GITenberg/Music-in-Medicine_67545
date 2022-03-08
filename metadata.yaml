@@ -1,0 +1,29 @@
+_repo: Music-in-Medicine_67545
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Licht, Sidney
+    alias: Licht, Sidney Herman
+    birthdate: 1907
+    deathdate: 1979
+    gutenberg_agent_id: '54263'
+    url: http://www.gutenberg.org/2009/agents/54263
+description: ''
+gutenberg_issued: '2022-03-02'
+identifiers:
+  gutenberg: '67545'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/mdp.39015008372008
+pgterms:marc905: 20200414030508licht
+pgterms:marc906: '1946'
+pgterms:marc907: US
+production_note: Tim Lindell and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: United States :New England Conservatory of Music,1946.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Music in Medicine
+url: http://www.gutenberg.org/ebooks/67545
